@@ -1,5 +1,5 @@
 ## dafistudentnetworknigeria.com
-My first online project__created__26th November 2020
+My First Online Project__created__26th November 2020
 
 This is the official website of DAFI Student Network Nigeria.
 
