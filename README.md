@@ -19,5 +19,5 @@ It's a single page Website.. Sectioned into:
 2) Background,
 3) Activities
 4) Gallery
-5) Our Team
+5) Our Team.
 6) Contact Us section.
