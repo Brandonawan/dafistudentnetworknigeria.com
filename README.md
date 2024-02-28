@@ -16,7 +16,7 @@ BUILD USING FRONT-END TECHNOLOGY LANGUAGES:
 ## STRUCTURE 
 It's a single page Website.. Sectioned into:
 1)Intro section.
-2) Background,
+2) Background.
 3) Activities.
 4) Gallery
 5) Our Team.
